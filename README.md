@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Girem
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html,js and css
+- 🌱 I’m currently learning html, js and css
 - 💞️ I’m looking to collaborate on enything
 - 📫 How to reach me fb url(https://www.facebook.com/profile.php?id=1673473959)
 
