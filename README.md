@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Girem
+- 👋 Hi, I’m @Girem Giorgi Iremashvili
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning html, js and css
 - 💞️ I’m looking to collaborate on enything
